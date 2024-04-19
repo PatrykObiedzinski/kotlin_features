@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a99449-b7bc-4fbc-97c9-ec3fed0722f4" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="79a99449-b7bc-4fbc-97c9-ec3fed0722f4" name="Changes" comment="Update .gitignore">
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/META-INF/kotlin_features.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/DelegationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/LabelKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/ReifiedKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/TypeAliasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/CompanionObject$Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/CompanionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/CompanionObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/DataClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/DataPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/EqualsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/InnerClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/NoCompanionObject$NoFriend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/NoCompanionObject$NoFriend2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/NoCompanionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/SequenceKt$sequence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/SequenceKt$sequence$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/SequenceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/regular/ExtensionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/regular/ScopeFunctionsKt.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PatrykObiedzinski"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PatrykObiedzinski/kotlin_features.git",
+    "accountId": "c74211dd-9d6e-4f03-9771-e21764d129ef"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,6 +82,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,7 +131,7 @@
       <workItem from="1713271655316" duration="6756000" />
       <workItem from="1713429285544" duration="5696000" />
       <workItem from="1713457509022" duration="123000" />
-      <workItem from="1713523590024" duration="1175000" />
+      <workItem from="1713523590024" duration="1614000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -106,14 +141,34 @@
       <option name="project" value="LOCAL" />
       <updated>1713524598624</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update .gitignore">
+      <option name="closed" value="true" />
+      <created>1713524984129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713524984129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Update .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore" />
   </component>
 </project>
