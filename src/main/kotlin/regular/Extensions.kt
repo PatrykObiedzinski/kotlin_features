@@ -1,0 +1,3 @@
+package regular
+
+fun extensions() {}
