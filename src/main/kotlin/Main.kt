@@ -4,19 +4,18 @@ import regular.*
 
 fun main() {
     // BASIC
-    equals()
-    sequence()
-    companionObject()
-    dataClass()
-    innerClasses()
+//    equals()
+//    sequence()
+//    companionObject()
+//    dataClass()
 
     // REGULAR
-    scopeFunctions()
-    extensions()
+//    scopeFunctions()
+//    extensions()
 
     // ADVANCED
-    reified()
-    delegation()
-    label()
-    typeAlias()
+//    reified()
+//    delegation()
+//    label()
+//    typeAlias()
 }

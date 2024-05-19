@@ -1,3 +1,11 @@
 package regular
 
-fun extensions() {}
+fun extensions() {
+    val myString = "ABCDEF"
+
+    myString.myExtension()
+}
+
+private fun String.myExtension() {
+    println("My extension string is: $this")
+}
