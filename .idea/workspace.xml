@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79a99449-b7bc-4fbc-97c9-ec3fed0722f4" name="Changes" comment="Update .gitignore">
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/META-INF/kotlin_features.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/DelegationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/LabelKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/ReifiedKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/advanced/TypeAliasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/CompanionObject$Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/CompanionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/CompanionObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/DataClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/DataPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/EqualsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/InnerClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/NoCompanionObject$NoFriend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/NoCompanionObject$NoFriend2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/NoCompanionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/SequenceKt$sequence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/SequenceKt$sequence$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/basic/SequenceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/regular/ExtensionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_features/regular/ScopeFunctionsKt.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PatrykObiedzinski"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PatrykObiedzinski/kotlin_features.git",
+    "accountId": "c74211dd-9d6e-4f03-9771-e21764d129ef"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fBNqGKctd2UgYTq3jSQmzC2pI2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Patryk/IdeaProjects/kotlin_features",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Patryk\IdeaProjects\kotlin_features\src\main\kotlin\regular" />
+      <recent name="C:\Users\Patryk\IdeaProjects\kotlin_features\src\main\kotlin\easy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="kotlin_features" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79a99449-b7bc-4fbc-97c9-ec3fed0722f4" name="Changes" comment="" />
+      <created>1713270704314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713270704314</updated>
+      <workItem from="1713270705441" duration="32000" />
+      <workItem from="1713270799621" duration="166000" />
+      <workItem from="1713270974868" duration="309000" />
+      <workItem from="1713271636140" duration="14000" />
+      <workItem from="1713271655316" duration="6756000" />
+      <workItem from="1713429285544" duration="5696000" />
+      <workItem from="1713457509022" duration="123000" />
+      <workItem from="1713523590024" duration="1614000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1713524598624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713524598624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update .gitignore">
+      <option name="closed" value="true" />
+      <created>1713524984129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713524984129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Update .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore" />
+  </component>
+</project>
